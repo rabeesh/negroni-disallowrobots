@@ -1,4 +1,4 @@
-# Disallow Robot (Negroni middleware)
+# Disallow Robots Negroni middleware
 
 Disallows indexation by search engines (with the robots.txt file) whenever you're not in production.
 
